@@ -6,6 +6,8 @@
 
 Fork of [github/awesome-copilot](https://github.com/github/awesome-copilot) with additional community contributions.
 
+> **Personal fork notes:** I'm using this to experiment with custom Copilot instructions for TypeScript/React projects. PRs here may not be kept in sync with upstream.
+
 ## Contents
 
 - [Copilot Instructions](#copilot-instructions)
@@ -20,7 +22,7 @@ Fork of [github/awesome-copilot](https://github.com/github/awesome-copilot) with
 Custom instruction files (`.github/copilot-instructions.md`) that tailor GitHub Copilot behavior for specific project types, languages, or workflows.
 
 | Name | Description | Language/Framework |
-|------|-------------|--------------------|
+|------|-------------|-----------------|
 | [General Instructions](.github/copilot-instructions.md) | Default instructions for this repository | General |
 
 ---
