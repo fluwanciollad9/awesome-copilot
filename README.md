@@ -22,8 +22,9 @@ Fork of [github/awesome-copilot](https://github.com/github/awesome-copilot) with
 Custom instruction files (`.github/copilot-instructions.md`) that tailor GitHub Copilot behavior for specific project types, languages, or workflows.
 
 | Name | Description | Language/Framework |
-|------|-------------|-----------------|
+|------|-------------|------------------|
 | [General Instructions](.github/copilot-instructions.md) | Default instructions for this repository | General |
+| [TypeScript/React Instructions](instructions/typescript-react.md) | Instructions tuned for React + TypeScript projects (my primary use case) | TypeScript, React |
 
 ---
 
