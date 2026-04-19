@@ -26,6 +26,7 @@ Custom instruction files (`.github/copilot-instructions.md`) that tailor GitHub 
 | [General Instructions](.github/copilot-instructions.md) | Default instructions for this repository | General |
 | [TypeScript/React Instructions](instructions/typescript-react.md) | Instructions tuned for React + TypeScript projects (my primary use case) | TypeScript, React |
 | [Node.js/Express Instructions](instructions/nodejs-express.md) | Instructions for backend Node.js + Express APIs | Node.js, Express |
+| [Python/FastAPI Instructions](instructions/python-fastapi.md) | Instructions for Python + FastAPI projects (experimenting with this stack) | Python, FastAPI |
 
 ---
 
