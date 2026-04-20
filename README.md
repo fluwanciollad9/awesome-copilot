@@ -28,6 +28,7 @@ Custom instruction files (`.github/copilot-instructions.md`) that tailor GitHub 
 | [Node.js/Express Instructions](instructions/nodejs-express.md) | Instructions for backend Node.js + Express APIs | Node.js, Express |
 | [Python/FastAPI Instructions](instructions/python-fastapi.md) | Instructions for Python + FastAPI projects (experimenting with this stack) | Python, FastAPI |
 | [Go Instructions](instructions/golang.md) | Instructions for Go projects — added this since I've been picking up Go lately | Go |
+| [Rust Instructions](instructions/rust.md) | Instructions for Rust projects — starting to learn Rust, very WIP | Rust |
 
 ---
 
