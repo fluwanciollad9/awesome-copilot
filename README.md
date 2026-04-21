@@ -33,6 +33,7 @@ Custom instruction files (`.github/copilot-instructions.md`) that tailor GitHub 
 | [Docker Instructions](instructions/docker.md) | Instructions for Dockerfile and docker-compose files — added while containerizing side projects | Docker |
 | [Vitest Instructions](instructions/vitest.md) | Instructions for writing tests with Vitest — added since I switched from Jest | TypeScript, Vitest |
 | [Tailwind CSS Instructions](instructions/tailwind.md) | Instructions for Tailwind CSS styling — added since most of my React projects use Tailwind now | TypeScript, Tailwind CSS |
+| [Next.js Instructions](instructions/nextjs.md) | Instructions for Next.js (App Router) projects — added as I migrate my React apps to Next.js | TypeScript, Next.js |
 
 ---
 
@@ -56,9 +57,4 @@ See [marketplace.json](.github/plugin/marketplace.json) for the full list of ava
 
 ## Contributing
 
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
-
-### How to Add Your Instructions
-
-1. Fork this repository
-2. Add you
+Contrib
