@@ -31,6 +31,7 @@ Custom instruction files (`.github/copilot-instructions.md`) that tailor GitHub 
 | [Rust Instructions](instructions/rust.md) | Instructions for Rust projects — starting to learn Rust, very WIP | Rust |
 | [SQL/PostgreSQL Instructions](instructions/sql-postgres.md) | Instructions for PostgreSQL queries and schema design — added for a side project | SQL, PostgreSQL |
 | [Docker Instructions](instructions/docker.md) | Instructions for Dockerfile and docker-compose files — added while containerizing side projects | Docker |
+| [Vitest Instructions](instructions/vitest.md) | Instructions for writing tests with Vitest — added since I switched from Jest | TypeScript, Vitest |
 
 ---
 
@@ -65,12 +66,4 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ### How to Add a Plugin
 
-1. Fork this repository
-2. Add your plugin entry to `.github/plugin/marketplace.json`
-3. Submit a pull request
-
----
-
-## Contributors
-
-Thanks to all contributors!
+1. F
