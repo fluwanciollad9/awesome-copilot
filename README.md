@@ -30,6 +30,7 @@ Custom instruction files (`.github/copilot-instructions.md`) that tailor GitHub 
 | [Go Instructions](instructions/golang.md) | Instructions for Go projects — added this since I've been picking up Go lately | Go |
 | [Rust Instructions](instructions/rust.md) | Instructions for Rust projects — starting to learn Rust, very WIP | Rust |
 | [SQL/PostgreSQL Instructions](instructions/sql-postgres.md) | Instructions for PostgreSQL queries and schema design — added for a side project | SQL, PostgreSQL |
+| [Docker Instructions](instructions/docker.md) | Instructions for Dockerfile and docker-compose files — added while containerizing side projects | Docker |
 
 ---
 
@@ -72,10 +73,4 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ## Contributors
 
-Thanks to all contributors! See [.all-contributorsrc](.all-contributorsrc) for the full list.
-
----
-
-## License
-
-[CC0 1.0 Universal](LICENSE) — Public Domain
+Thanks to all contributors!
