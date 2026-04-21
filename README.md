@@ -29,6 +29,7 @@ Custom instruction files (`.github/copilot-instructions.md`) that tailor GitHub 
 | [Python/FastAPI Instructions](instructions/python-fastapi.md) | Instructions for Python + FastAPI projects (experimenting with this stack) | Python, FastAPI |
 | [Go Instructions](instructions/golang.md) | Instructions for Go projects — added this since I've been picking up Go lately | Go |
 | [Rust Instructions](instructions/rust.md) | Instructions for Rust projects — starting to learn Rust, very WIP | Rust |
+| [SQL/PostgreSQL Instructions](instructions/sql-postgres.md) | Instructions for PostgreSQL queries and schema design — added for a side project | SQL, PostgreSQL |
 
 ---
 
