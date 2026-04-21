@@ -35,6 +35,7 @@ Custom instruction files (`.github/copilot-instructions.md`) that tailor GitHub 
 | [Tailwind CSS Instructions](instructions/tailwind.md) | Instructions for Tailwind CSS styling — added since most of my React projects use Tailwind now | TypeScript, Tailwind CSS |
 | [Next.js Instructions](instructions/nextjs.md) | Instructions for Next.js (App Router) projects — added as I migrate my React apps to Next.js | TypeScript, Next.js |
 | [Prisma Instructions](instructions/prisma.md) | Instructions for Prisma ORM — added for my Next.js + PostgreSQL projects | TypeScript, Prisma |
+| [Astro Instructions](instructions/astro.md) | Instructions for Astro projects — experimenting with this for static/content sites | TypeScript, Astro |
 
 ---
 
@@ -44,10 +45,4 @@ Agent definition files (`.github/agents/*.agent.md`) that define autonomous Copi
 
 | Name | Description |
 |------|-------------|
-| [Agentic Workflows](.github/agents/agentic-workflows.agent.md) | Core agentic workflow definitions |
-
----
-
-## Plugins & Extensions
-
-Marketplace plugins and 
+| [Agentic W
