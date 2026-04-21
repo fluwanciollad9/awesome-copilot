@@ -32,6 +32,7 @@ Custom instruction files (`.github/copilot-instructions.md`) that tailor GitHub 
 | [SQL/PostgreSQL Instructions](instructions/sql-postgres.md) | Instructions for PostgreSQL queries and schema design — added for a side project | SQL, PostgreSQL |
 | [Docker Instructions](instructions/docker.md) | Instructions for Dockerfile and docker-compose files — added while containerizing side projects | Docker |
 | [Vitest Instructions](instructions/vitest.md) | Instructions for writing tests with Vitest — added since I switched from Jest | TypeScript, Vitest |
+| [Tailwind CSS Instructions](instructions/tailwind.md) | Instructions for Tailwind CSS styling — added since most of my React projects use Tailwind now | TypeScript, Tailwind CSS |
 
 ---
 
@@ -60,10 +61,4 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 ### How to Add Your Instructions
 
 1. Fork this repository
-2. Add your `.github/copilot-instructions.md` or agent file
-3. Update the relevant section in this README
-4. Submit a pull request
-
-### How to Add a Plugin
-
-1. F
+2. Add you
