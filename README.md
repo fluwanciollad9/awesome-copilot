@@ -36,10 +36,6 @@ Custom instruction files (`.github/copilot-instructions.md`) that tailor GitHub 
 | [Next.js Instructions](instructions/nextjs.md) | Instructions for Next.js (App Router) projects — added as I migrate my React apps to Next.js | TypeScript, Next.js |
 | [Prisma Instructions](instructions/prisma.md) | Instructions for Prisma ORM — added for my Next.js + PostgreSQL projects | TypeScript, Prisma |
 | [Astro Instructions](instructions/astro.md) | Instructions for Astro projects — experimenting with this for static/content sites | TypeScript, Astro |
-| [GitHub Actions Instructions](instructions/github-actions.md) | Instructions for writing GitHub Actions workflows — added to help with CI/CD setup | YAML, GitHub Actions |
+| [GitHub Actions Instructions](instructions/github-actions.md) | Instructions for GitHub Actions workflows — added to help with CI/CD automation | YAML, GitHub Actions |
 
----
-
-## Agentic Workflows
-
-Agent definition files (`.github/age
+> **Note to self:** The Rust and Astro instructions are still pretty rough. Revisit these once I have more hands-on time with those stacks.
