@@ -36,13 +36,10 @@ Custom instruction files (`.github/copilot-instructions.md`) that tailor GitHub 
 | [Next.js Instructions](instructions/nextjs.md) | Instructions for Next.js (App Router) projects — added as I migrate my React apps to Next.js | TypeScript, Next.js |
 | [Prisma Instructions](instructions/prisma.md) | Instructions for Prisma ORM — added for my Next.js + PostgreSQL projects | TypeScript, Prisma |
 | [Astro Instructions](instructions/astro.md) | Instructions for Astro projects — experimenting with this for static/content sites | TypeScript, Astro |
+| [GitHub Actions Instructions](instructions/github-actions.md) | Instructions for writing GitHub Actions workflows — added to help with CI/CD setup | YAML, GitHub Actions |
 
 ---
 
 ## Agentic Workflows
 
-Agent definition files (`.github/agents/*.agent.md`) that define autonomous Copilot agent behaviors for common development tasks.
-
-| Name | Description |
-|------|-------------|
-| [Agentic W
+Agent definition files (`.github/age
